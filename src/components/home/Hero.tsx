@@ -70,7 +70,7 @@ export function Hero() {
             >
               <div className="relative w-full h-full overflow-hidden shadow-2xl">
                  <Image
-                  src="https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                  src="/unnamed-6.webp"
                   alt="Elegancka papeteria ślubna"
                   fill
                   className="object-cover hover:scale-105 transition-transform duration-[1.5s]"
@@ -88,7 +88,7 @@ export function Hero() {
             >
                <div className="relative w-full h-full overflow-hidden">
                 <Image
-                  src="https://images.pexels.com/photos/5699479/pexels-photo-5699479.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                  src="/IMG_1439.webp"
                   alt="Detale zaproszeń - lak i wstążka"
                   fill
                   className="object-cover"
@@ -108,7 +108,7 @@ export function Hero() {
            {/* Mobile Image (Single) */}
            <div className="md:hidden mt-8 relative aspect-[4/5] w-full">
               <Image
-                  src="https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                  src="/unnamed-6.webp"
                   alt="Elegancka papeteria ślubna"
                   fill
                   className="object-cover shadow-lg"
